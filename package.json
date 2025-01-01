@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "framer-motion": "^10.16.1",
+    "macos": "file:../macos-big-sur-clone",
     "react": "^18.2.0",
     "react-click-away-listener": "^2.2.3",
     "react-dom": "^18.2.0",

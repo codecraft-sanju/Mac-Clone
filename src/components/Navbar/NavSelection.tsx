@@ -82,10 +82,10 @@ export function NavSelection({ setSelectionOpen }: NavSelectionProps) {
           </span>
           <SystemColorPreferenceLink
             $themeColor={themeColor}
-            href="https://github.com/mirayatech/macos-big-sur-clone"
+            href="https://github.com/codecraft-sanju"
             target="_blank"
           >
-            Created by Miraya Tech
+            Created by codecraft-sanju
           </SystemColorPreferenceLink>
         </Column>
       </Grid>
